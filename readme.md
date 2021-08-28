@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish Gupta</h1>
-<h3 align="center">A student full stack open source developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Krish+Gupta;A+Full+Stack+Open+Source+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishdevdb" alt="krishdevdb" /></a> </p>
 
